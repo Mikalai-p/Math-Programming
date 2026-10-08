@@ -15,7 +15,7 @@
 
 ## Автор
 
-Микалай
+Николай
 GitHub: https://github.com/Mikalai-p
 
 Учебный проект.
